@@ -1,5 +1,4 @@
-// Determinar los divisores de un número introducido por
-teclado 
+// Determinar los divisores de un número introducido por teclado 
 function divisores(n) {
     var contador = 1;
     while (contador <= n) {
